@@ -10,7 +10,7 @@ This folder contains notebooks that provide the code for creating text corpora, 
 
 ## Data
 
-This folder contains the dataset used in the word embeddings. I will make it available here as soon as I have checked possible copyright restrictions. 
+This folder will contain the dataset used for the word embeddings. I'll make it available as soon as I verify any copyright restrictions.
 
 ## Tables
 
