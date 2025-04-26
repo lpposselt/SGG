@@ -1,4 +1,7 @@
 # SGG
+
+*** *This repository will be completed in the coming weeks (2025-04-25)* ***
+
 Word embeddings for poverty discourse in the Swiss Charitable Society (1811-1922)
 (WORK IN PROGRESS).
 
