@@ -1,11 +1,10 @@
 # SGG
 
-*** *This repository will be completed in the coming weeks (2025-04-25)* ***
 
 Word embeddings for poverty discourse in the Swiss Charitable Society (1811-1922)
-(WORK IN PROGRESS).
+(WORK IN PROGRESS, last updated: 2025-06-10).
 
-This repisotory contains the data and code for the analysis in the draft paper "The emergence of the etiological standpoint. Changes of moral classification in the history of poor relief"
+This repisotory contains the code for the analysis in the dissertation/draft paper "The emergence of the etiological standpoint. Changes of moral classification in the history of poor relief"
 
 ## Code
 
@@ -13,7 +12,7 @@ This folder contains notebooks that provide the code for creating text corpora, 
 
 ## Data
 
-This folder will contain the dataset used for the word embeddings. I'll make it available as soon as I verify any copyright restrictions.
+This folder will contain the dataset used for the word embeddings. I'll make it available as soon as I verify any copyright restrictions. So f
 
 ## Tables
 
